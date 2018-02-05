@@ -1,0 +1,8 @@
+[package]
+name = "datamosh"
+version = "0.1.0"
+authors = ["Jake McGinty <me@jake.su>"]
+
+[dependencies]
+histogram = "*"
+rand = "*"
